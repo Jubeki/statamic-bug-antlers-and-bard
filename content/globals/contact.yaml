@@ -1,0 +1,24 @@
+title: Contact
+data:
+  details:
+    -
+      type: paragraph
+      content:
+        -
+          type: text
+          marks:
+            -
+              type: bold
+          text: 'This are some contact details'
+    -
+      type: paragraph
+      content:
+        -
+          type: text
+          text: test@example.com
+    -
+      type: paragraph
+      content:
+        -
+          type: text
+          text: ':)'

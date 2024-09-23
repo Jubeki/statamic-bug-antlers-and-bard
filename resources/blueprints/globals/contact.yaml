@@ -1,0 +1,12 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: details
+            field:
+              remove_empty_nodes: false
+              type: bard
+              display: Details
