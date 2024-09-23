@@ -1,0 +1,4 @@
+name: 'Test Account'
+super: true
+id: e3fcea53-b5ef-44f7-90f4-2fd8730d68e1
+password_hash: $2y$12$a2EKf4zkYQBOSqrd2iTI4O3WfBXydR5Kq3iTkrnC5o8YH7/vvNTkC
