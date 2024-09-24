@@ -10,3 +10,4 @@ tabs:
               remove_empty_nodes: false
               type: bard
               display: Details
+              antlers: true
